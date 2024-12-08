@@ -35,3 +35,8 @@ scroll down
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   </div>
+
+  -----
+<div align="center">
+<img src="https://github.com/Daniel1236n29/Daniel1236n29/blob/main/assets/gif.gif"  width="600" height="300"/>
+</div>
