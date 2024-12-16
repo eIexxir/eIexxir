@@ -7,7 +7,7 @@
 - 😉Hi I'm Elexxir
 -  -------briefly about me :
 - 💾I'm in 8th grade
-- 🖥️I created hikka modules and customize it
+- 🖥️I created hikka modules.py and customize it
 - 🪪you can see my social networks in my profile
 
 - i use arch btw 😭
