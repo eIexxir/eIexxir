@@ -4,7 +4,7 @@
 </h1>
 
 
-- 😉Hi I'm Elexxir
+-   I'm Elexxir
 -  -------briefly about me :
 - 💾I'm python user
 - 🖥️I created hikka modules.py and customize it
