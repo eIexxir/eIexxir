@@ -6,7 +6,7 @@
 
 - 😉Hi I'm Elexxir
 -  -------briefly about me :
-- 💾I'm in 8th grade
+- 💾I'm python user
 - 🖥️I created hikka modules.py and customize it
 - 🪪you can see my social networks in my profile
 
@@ -15,7 +15,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-scroll down
 ---
 
 ### :fire: My Stats :
