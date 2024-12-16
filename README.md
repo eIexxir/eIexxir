@@ -4,10 +4,10 @@
 </h1>
 
 
-- 😉Hi I'm Elexir
+- 😉Hi I'm Elexxir
 -  -------briefly about me :
 - 💾I'm in 8th grade
-- 🖥️I do school and also Linux and hikka modules
+- 🖥️I created modules and customize 
 - 🪪you can see my social networks in my profile
 
 - i use arch btw 😭
