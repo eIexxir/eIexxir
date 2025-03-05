@@ -4,17 +4,13 @@
 </h1>
 
 
--   I'm Elexxir
+-   I'm Elexxir / belosnezhka
 -  -------briefly about me :
 - 💾I'm python user
 - 🖥️I created hikka modules and customize it
 - 🪪you can see my social networks in my profile
 
-- i use arch btw 😭
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 ---
 
 ### :fire: My Stats :
@@ -40,5 +36,3 @@
 <img src="https://github.com/Daniel1236n29/Daniel1236n29/blob/main/assets/gif.gif"  width="600" height="300"/>
 </div>
 
-
-bio version v1
